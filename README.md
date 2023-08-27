@@ -1,4 +1,4 @@
-# RANZINZA PLATFORM
+# NestJS Boilerplate
 
 ## DOCUMENTAÇÃO
 ## Arquitetura
